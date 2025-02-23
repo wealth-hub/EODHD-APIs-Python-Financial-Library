@@ -40,7 +40,6 @@ setup(
         "rich>=13.5.2",
         "pandas>=2.1.0",
         "numpy>=1.25.2",
-        "matplotlib>=3.7.2",
     ],
     entry_points={
         "console_scripts": [
